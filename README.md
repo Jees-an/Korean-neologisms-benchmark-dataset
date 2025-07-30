@@ -1,4 +1,6 @@
 # 🌱 K-NEOBENCH: 현대 한국어 신어 벤치마크
+- 📂 Side Project
+- 📈 **K-NEOBENCH-TREND**: [현대 한국어 신어 벤치마크](https://github.com/Jees-an/K-NEOBENCH-TREND)
 
 ## 1. 개요
 
