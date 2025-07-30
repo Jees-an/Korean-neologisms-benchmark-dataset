@@ -58,6 +58,8 @@
 📊 **한국어 신어 사용 추이 저장소**  
 👉 [K-NEOBENCH-TREND](https://github.com/Jees-an/K-NEOBENCH-TREND)
 
+![한국어 신어 사용 추이 예시](img/Korean_Neologism_Usage_Trend_Example.jpg)
+
 ## 6. 참고문헌
 
 - 남길임·이수진·안진산(2025), 「말뭉치, LLMs, 인간 전문가의 협업을 통한 한국어 신어의 탐지」, 『한국어학』 108호 (*forthcoming*).
