@@ -1,7 +1,7 @@
 # 🌱 KNBD: Korean Neologisms Benchmark Dataset
-- **현대 한국어 신어 벤치마크**
-    - 📂 Side Project
-    - 📈 **KNTD: Korean Neologisms Trend Dataset**: [현대 한국어 신어 사용 추이 데이터셋](https://github.com/Jees-an/Korean-neologisms-trend-dataset)
+## **현대 한국어 신어 벤치마크**
+### 📂 Side Project
+### 📈 **KNTD: Korean Neologisms Trend Dataset**: [현대 한국어 신어 사용 추이 데이터셋](https://github.com/Jees-an/Korean-neologisms-trend-dataset)
 
 ## 1. 개요
 
