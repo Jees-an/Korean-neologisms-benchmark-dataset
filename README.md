@@ -36,7 +36,7 @@ _(작성 필요 – 데이터셋 형식, 컬럼 설명, 샘플 등 기술 예정
 
 ## 4. 벤치마크의 구축 과정
 
-![한국어 신어 추출 과정](img/Process_of_Building_the_Benchmark.png)
+![한국어 신어 추출 과정](img/Process_of_Building_the_Benchmark.jpg)
 
 ## 5. 참고문헌
 
