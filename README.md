@@ -58,7 +58,7 @@
 📊 **한국어 신어 사용 추이 저장소**  
 👉 [K-NEOBENCH-TREND](https://github.com/Jees-an/K-NEOBENCH-TREND)
 
-![한국어 신어 사용 추이 예시](img/Korean_Neologism_Usage_Trend_Example.jpg)
+![한국어 신어 사용 추이 예시](img/Korean_Neologism_Usage_Trend_Example_(1).jpg)
 
 ## 6. 참고문헌
 
