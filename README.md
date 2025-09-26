@@ -49,11 +49,14 @@
 | 13 | `뜻풀이`         | `재미를 추구하는 재테크. (...)` | 신어에 대한 정의문과 설명문 |
 | 14 | `용례`           | `¶OO 은행은 (...) {잼테크} 마케팅을 (...)` | 신어의 전형적인 문맥 |
 
-## 4. 벤치마크의 구축 과정
+## 4. 벤치마크의 통계 정보
+![벤치마크 통계](img/Benchmark_Stats.jpg)
+
+## 5. 벤치마크의 구축 과정
 
 ![한국어 신어 추출 과정](img/Process_of_Building_the_Benchmark.jpg)
 
-## 5. 현대 한국어 신어의 사용 추이
+## 6. 현대 한국어 신어의 사용 추이
 
 한국어 신어의 사용 추이는 다음의 별도 저장소를 참고해 주시기 바랍니다.
 말뭉치 기반 연도별 상대 빈도 추이, 구글 트렌드 검색 관심도 변화 등을 분석한 결과가 포함되어 있습니다.
@@ -63,7 +66,7 @@
 
 ![한국어 신어 사용 추이 예시](img/Korean_Neologism_Usage_Trend_Example_(1).jpg)
 
-## 6. 참고문헌
+## 7. 참고문헌
 
 - [남길임·안진산·이수진(2025), 「말뭉치, LLMs, 인간 전문가의 협업을 통한 한국어 신어의 탐지」, 『한국어학』 108호.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003232209)
 - 남길임 외(2025), 『신어 2024』, 한국문화사 (*forthcoming*).
